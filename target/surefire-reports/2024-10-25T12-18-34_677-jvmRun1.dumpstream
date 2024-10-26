@@ -1,0 +1,3 @@
+# Created at 2024-10-25T12:18:35.332
+java.lang.NoSuchMethodException: org.apache.maven.surefire.testng.TestNGProvider.<init>(org.apache.maven.surefire.api.provider.ProviderParameters)
+

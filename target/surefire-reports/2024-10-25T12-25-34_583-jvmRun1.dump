@@ -1,0 +1,16 @@
+# Created at 2024-10-25T12:25:35.249
+org.apache.maven.surefire.api.util.SurefireReflectionException: java.lang.NoSuchMethodException: org.apache.maven.surefire.testng.TestNGProvider.<init>(org.apache.maven.surefire.api.provider.ProviderParameters)
+	at org.apache.maven.surefire.api.util.ReflectionUtils.getConstructor(ReflectionUtils.java:87)
+	at org.apache.maven.surefire.api.util.ReflectionUtils.instantiateOneArg(ReflectionUtils.java:135)
+	at org.apache.maven.surefire.booter.ForkedBooter.createProviderInCurrentClassloader(ForkedBooter.java:524)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+Caused by: java.lang.NoSuchMethodException: org.apache.maven.surefire.testng.TestNGProvider.<init>(org.apache.maven.surefire.api.provider.ProviderParameters)
+	at java.base/java.lang.Class.getConstructor0(Class.java:3784)
+	at java.base/java.lang.Class.getConstructor(Class.java:2452)
+	at org.apache.maven.surefire.api.util.ReflectionUtils.getConstructor(ReflectionUtils.java:83)
+	... 6 more
+
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<h4 style='color:red'> <b>Screenshot URL:</b> <a href='https://skillgun.com/Student/Home.aspx' target='_blank'>https://skillgun.com/Student/Home.aspx</a> </h4>]]>
+    </line>
+    <line>
+      <![CDATA[<h3 style='color:red'><b>Analyze Exceptions with below Screenshot</b> &nbsp; &nbsp; &nbsp; OR &nbsp; &nbsp; &nbsp; <a href='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092303.png' target='_blank'>Click Here to open Screenshot in New Tab/Window</a></h3>]]>
+    </line>
+    <line>
+      <![CDATA[<iframe name='inlineframe' src='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092303.png' frameborder='0' scrolling='auto' width='1024' height='180' marginwidth='5' marginheight='5'></iframe>]]>
+    </line>
+    <line>
+      <![CDATA[<h4 style='color:red'> <b>Screenshot URL:</b> <a href='https://skillgun.com/Student/NewPlacementDrive.aspx' target='_blank'>https://skillgun.com/Student/NewPlacementDrive.aspx</a> </h4>]]>
+    </line>
+    <line>
+      <![CDATA[<h3 style='color:red'><b>Analyze Exceptions with below Screenshot</b> &nbsp; &nbsp; &nbsp; OR &nbsp; &nbsp; &nbsp; <a href='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092429.png' target='_blank'>Click Here to open Screenshot in New Tab/Window</a></h3>]]>
+    </line>
+    <line>
+      <![CDATA[<iframe name='inlineframe' src='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092429.png' frameborder='0' scrolling='auto' width='1024' height='180' marginwidth='5' marginheight='5'></iframe>]]>
+    </line>
+    <line>
+      <![CDATA[<h4 style='color:red'> <b>Screenshot URL:</b> <a href='https://skillgun.com/' target='_blank'>https://skillgun.com/</a> </h4>]]>
+    </line>
+    <line>
+      <![CDATA[<h3 style='color:red'><b>Analyze Exceptions with below Screenshot</b> &nbsp; &nbsp; &nbsp; OR &nbsp; &nbsp; &nbsp; <a href='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092447.png' target='_blank'>Click Here to open Screenshot in New Tab/Window</a></h3>]]>
+    </line>
+    <line>
+      <![CDATA[<iframe name='inlineframe' src='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092447.png' frameborder='0' scrolling='auto' width='1024' height='180' marginwidth='5' marginheight='5'></iframe>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-27T03:52:38Z" name="Default suite" finished-at="2024-09-27T03:54:47Z" duration-ms="128819">
+    <groups>
+      <group name="E2EFlow">
+        <method signature="AllStudentsCompleteTest.verifystudentDetailworkFlows()[pri:0, instance:TestAutomation.suites.AllStudentsCompleteTest@1338fb5]" name="verifystudentDetailworkFlows" class="TestAutomation.suites.AllStudentsCompleteTest"/>
+      </group> <!-- E2EFlow -->
+    </groups>
+    <test started-at="2024-09-27T03:52:38Z" name="Default test" finished-at="2024-09-27T03:54:47Z" duration-ms="128819">
+      <class name="TestAutomation.suites.AllStudentsCompleteTest">
+        <test-method signature="verifystudentDetailworkFlows()[pri:0, instance:TestAutomation.suites.AllStudentsCompleteTest@1338fb5]" started-at="2024-09-27T09:22:38Z" name="verifystudentDetailworkFlows" finished-at="2024-09-27T09:24:47Z" duration-ms="128803" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<h4 style='color:red'> <b>Screenshot URL:</b> <a href='https://skillgun.com/Student/Home.aspx' target='_blank'>https://skillgun.com/Student/Home.aspx</a> </h4>]]>
+            </line>
+            <line>
+              <![CDATA[<h3 style='color:red'><b>Analyze Exceptions with below Screenshot</b> &nbsp; &nbsp; &nbsp; OR &nbsp; &nbsp; &nbsp; <a href='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092303.png' target='_blank'>Click Here to open Screenshot in New Tab/Window</a></h3>]]>
+            </line>
+            <line>
+              <![CDATA[<iframe name='inlineframe' src='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092303.png' frameborder='0' scrolling='auto' width='1024' height='180' marginwidth='5' marginheight='5'></iframe>]]>
+            </line>
+            <line>
+              <![CDATA[<h4 style='color:red'> <b>Screenshot URL:</b> <a href='https://skillgun.com/Student/NewPlacementDrive.aspx' target='_blank'>https://skillgun.com/Student/NewPlacementDrive.aspx</a> </h4>]]>
+            </line>
+            <line>
+              <![CDATA[<h3 style='color:red'><b>Analyze Exceptions with below Screenshot</b> &nbsp; &nbsp; &nbsp; OR &nbsp; &nbsp; &nbsp; <a href='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092429.png' target='_blank'>Click Here to open Screenshot in New Tab/Window</a></h3>]]>
+            </line>
+            <line>
+              <![CDATA[<iframe name='inlineframe' src='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092429.png' frameborder='0' scrolling='auto' width='1024' height='180' marginwidth='5' marginheight='5'></iframe>]]>
+            </line>
+            <line>
+              <![CDATA[<h4 style='color:red'> <b>Screenshot URL:</b> <a href='https://skillgun.com/' target='_blank'>https://skillgun.com/</a> </h4>]]>
+            </line>
+            <line>
+              <![CDATA[<h3 style='color:red'><b>Analyze Exceptions with below Screenshot</b> &nbsp; &nbsp; &nbsp; OR &nbsp; &nbsp; &nbsp; <a href='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092447.png' target='_blank'>Click Here to open Screenshot in New Tab/Window</a></h3>]]>
+            </line>
+            <line>
+              <![CDATA[<iframe name='inlineframe' src='C:\Users\HOME\Outputsheet\Selenium\Execution_Screenshots\27-09-2024/studentflow_20240927_092447.png' frameborder='0' scrolling='auto' width='1024' height='180' marginwidth='5' marginheight='5'></iframe>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifystudentDetailworkFlows -->
+      </class> <!-- TestAutomation.suites.AllStudentsCompleteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

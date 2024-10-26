@@ -1,0 +1,16 @@
+TestAutomation\suites\AllStudentsCompleteTest.class
+TestAutomation\Utilities\utility\ExcelUtilities.class
+TestAutomation\pages\ProfileSettingsPage.class
+TestAutomation\pages\StudentLoginPage.class
+TestAutomation\Utilities\utility\BrowserUIUtils.class
+TestAutomation\Utilities\Reports\WriteToExcel.class
+TestAutomation\pages\StudentHomePage.class
+TestAutomation\Utilities\utility\BrowserUIUtils$Driver.class
+TestAutomation\suites\StudentCompleteTest.class
+TestAutomation\Utilities\Reports\WritetoHTML.class
+TestAutomation\Utilities\utility\GenericFunctions.class
+TestAutomation\Utilities\Reports\ScreenshotUtilities.class
+TestAutomation\pages\NewPlacementDrivePage.class
+TestAutomation\Utilities\utility\Constants.class
+TestAutomation\pages\EditContactDetailsPage.class
+TestAutomation\Utilities\utility\DatabaseUtil.class
